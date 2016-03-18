@@ -1,5 +1,3 @@
-//include ':ott_market:Youku_TV_Market'
-//include ':ott_libs:AllAppsComponent'
-//include ':ott_libs:DownloadComponent'
+include ':app'
 
 
